@@ -6,7 +6,7 @@ I'm Adesh Rai, and I work on Software Developement. I really enjoy learning and 
 ## Skills and Experience
 - ☕️ Java
 - 🖥 HTML, CSS, JS
-- ⚛ React 
+- ⚛ ⚛️ React 
 - 🐧 Unix
 
 ### You can find my projects down this page they use Languages like Java, HTML,CSS and JavaScript
