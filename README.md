@@ -8,6 +8,7 @@ I'm Adesh Rai, and I work on Software Developement. I really enjoy learning and 
 - 🖥 HTML, CSS, JS
 - ⚛ React 
 - 🐧 Unix
+- C/C++
 
 ### You can find my projects down this page they use Languages like Java, HTML,CSS and JavaScript
 
