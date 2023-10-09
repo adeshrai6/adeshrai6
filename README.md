@@ -1,7 +1,7 @@
 # Adesh Rai
 
 ### Hi there 👋🏻
-I'm Adesh Rai, and I work on Software Developement. I really enjoy learning and building Apps.
+I'm Adesh Rai, and I work in Software Development. I really enjoy learning and building Apps.
 
 ## Skills and Experience
 - ☕️ Java
@@ -10,5 +10,5 @@ I'm Adesh Rai, and I work on Software Developement. I really enjoy learning and 
 - 🐧 Unix
 - C/C++
 
-### You can find my projects down this page they use Languages like Java, HTML,CSS and JavaScript
+### You can find my projects on this page they use Languages like Java, HTML, CSS and JavaScript
 
