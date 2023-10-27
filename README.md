@@ -1,7 +1,7 @@
 # Adesh Rai
 
 ### Hi there 👋🏻
-I'm Adesh Rai, and I work in Software Development. I really enjoy learning and building Apps.
+I'm Adesh Rai, and I like to work in Software Development. I really enjoy learning and building Apps.
 
 ## Skills and Experience
 - ☕️ Java
